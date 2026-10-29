@@ -1,0 +1,13 @@
+{
+  "name": "deep-research-marketplace",
+  "plugins": [
+    {
+      "name": "deep-research",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Multi-source research automation producing a cited one-page brief. Caveat: it reports contradictions, it does not resolve them; paywalled sources are marked, not fetched.",
+      "displayName": "Deep Research",
+      "category": "productivity"
+    }
+  ]
+}

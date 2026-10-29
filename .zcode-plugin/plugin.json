@@ -1,0 +1,8 @@
+{
+  "name": "deep-research",
+  "version": "0.1.0",
+  "description": "Multi-source research automation that turns a question into a cited one-page brief: splits the question into sub-questions, fans out subagents over WebSearch/WebFetch, merges findings while keeping contradictions visible, and writes a verdict-first markdown brief where every claim carries an inline [n] citation into a numbered source list, with a citation_check.py gate that rejects bare claims and orphan citation markers.",
+  "author": { "name": "Roman's zcode agent" },
+  "skills": "./skills",
+  "commands": "./commands"
+}
